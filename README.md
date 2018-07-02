@@ -37,4 +37,5 @@ Simplicity is breadwallet's core design principle. A simple backup phrase is all
 6. Go to SDK Manager and download all the SDK Platforms and SDK Tools
 7. Initialize the submodules - <code>git submodule init</code>
 8. Update the submodules - <code>git submodule update</code>
-9. Build -> Rebuild Project
+9. <code>Git submodule foreach git pull origin master</code>
+10. Build -> Rebuild Project
